@@ -2,7 +2,7 @@ partners:
   - offering_name: "Cloud Storage"
     companyName: "TechCorp"
     Type: "SaaS"
-    SourceURL: "https://techcorp.com/cloud-storage"
+    SourceURL: "https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://s3.amazonaws.com/solutions-features-reference/connected-mobility-solution-on-aws/mainline-v1.2.0/vpc/vpc.template&stackName=acdp-public-vpc&param_VpcName=acdp-public-vpc&param_VpcFlowLogsEnabled=false&param_AllowInternetAccess=true&param_EnableVpcEndpoints=true"
     Note: "Highly reliable cloud storage solution"
 
   - offering_name: "AI Analytics"
