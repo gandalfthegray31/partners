@@ -1,90 +1,76 @@
 partners:
-  - offering_name: "Cloud Storage"
-    companyName: "TechCorp"
-    Type: "SaaS"
-    SourceURL: "https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://s3.amazonaws.com/solutions-features-reference/connected-mobility-solution-on-aws/mainline-v1.2.0/vpc/vpc.template&stackName=acdp-public-vpc&param_VpcName=acdp-public-vpc&param_VpcFlowLogsEnabled=false&param_AllowInternetAccess=true&param_EnableVpcEndpoints=true"
-    Note: "Highly reliable cloud storage solution"
-
-  - offering_name: "AI Analytics"
-    companyName: "DataGenius"
-    Type: "AI"
-    SourceURL: "https://datagenius.com/ai-analytics"
-    Note: "Advanced AI analytics platform"
-
-  - offering_name: "Cybersecurity Suite"
-    companyName: "SecureNet"
-    Type: "Security"
-    SourceURL: "https://securenet.com/cybersecurity-suite"
-    Note: "Comprehensive cybersecurity tools"
-
-  - offering_name: "Marketing Automation"
-    companyName: "MarketMinds"
-    Type: "Marketing"
-    SourceURL: "https://marketminds.com/automation"
-    Note: "Efficient marketing automation services"
-
-  - offering_name: "E-commerce Platform"
-    companyName: "ShopEase"
-    Type: "E-commerce"
-    SourceURL: "https://shopease.com/platform"
-    Note: "User-friendly e-commerce solutions"
-
-  - offering_name: "Project Management Tool"
-    companyName: "ProjectPlus"
-    Type: "Management"
-    SourceURL: "https://projectplus.com/tool"
-    Note: "Streamlined project management tool"
-
-  - offering_name: "Customer Relationship Management"
-    companyName: "ClientConnect"
-    Type: "CRM"
-    SourceURL: "https://clientconnect.com/crm"
-    Note: "Effective CRM software"
-
-  - offering_name: "Human Resources Management"
-    companyName: "HR Solutions"
-    Type: "HR"
-    SourceURL: "https://hrsolutions.com/management"
-    Note: "Comprehensive HR management system"
-
-  - offering_name: "Financial Software"
-    companyName: "FinancePro"
-    Type: "Finance"
-    SourceURL: "https://financepro.com/software"
-    Note: "Robust financial software"
-
-  - offering_name: "Email Marketing"
-    companyName: "MailMaster"
-    Type: "Marketing"
-    SourceURL: "https://mailmaster.com/email"
-    Note: "Effective email marketing platform"
-
-  - offering_name: "Social Media Management"
-    companyName: "SocialSync"
-    Type: "Social Media"
-    SourceURL: "https://socialsync.com/management"
-    Note: "All-in-one social media management tool"
-
-  - offering_name: "Cloud Computing Services"
-    companyName: "CloudWave"
-    Type: "Cloud"
-    SourceURL: "https://cloudwave.com/services"
-    Note: "Reliable cloud computing services"
-
-  - offering_name: "Data Backup Solutions"
-    companyName: "BackupGuard"
-    Type: "Data"
-    SourceURL: "https://backupguard.com/solutions"
-    Note: "Secure data backup solutions"
-
-  - offering_name: "Video Conferencing"
-    companyName: "MeetPro"
-    Type: "Communication"
-    SourceURL: "https://meetpro.com/video"
-    Note: "High-quality video conferencing"
-
-  - offering_name: "Content Management System"
-    companyName: "ContentFlow"
-    Type: "CMS"
-    SourceURL: "https://contentflow.com/system"
-    Note: "Flexible content management system"
+- Note: Highly reliable cloud storage solution
+  SourceURL: https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://s3.amazonaws.com/solutions-features-reference/connected-mobility-solution-on-aws/mainline-v1.2.0/vpc/vpc.template&stackName=acdp-public-vpc&param_VpcName=acdp-public-vpc&param_VpcFlowLogsEnabled=false&param_AllowInternetAccess=true&param_EnableVpcEndpoints=true
+  Type: SaaS
+  companyName: TechCorp
+  offering_name: Cloud Storage
+- Note: Advanced AI analytics platform
+  SourceURL: https://datagenius.com/ai-analytics
+  Type: AI
+  companyName: DataGenius
+  offering_name: AI Analytics
+- Note: Comprehensive cybersecurity tools
+  SourceURL: https://securenet.com/cybersecurity-suite
+  Type: Security
+  companyName: SecureNet
+  offering_name: Cybersecurity Suite
+- Note: Efficient marketing automation services
+  SourceURL: https://marketminds.com/automation
+  Type: Marketing
+  companyName: MarketMinds
+  offering_name: Marketing Automation
+- Note: User-friendly e-commerce solutions
+  SourceURL: https://shopease.com/platform
+  Type: E-commerce
+  companyName: ShopEase
+  offering_name: E-commerce Platform
+- Note: Streamlined project management tool
+  SourceURL: https://projectplus.com/tool
+  Type: Management
+  companyName: ProjectPlus
+  offering_name: Project Management Tool
+- Note: Effective CRM software
+  SourceURL: https://clientconnect.com/crm
+  Type: CRM
+  companyName: ClientConnect
+  offering_name: Customer Relationship Management
+- Note: Comprehensive HR management system
+  SourceURL: https://hrsolutions.com/management
+  Type: HR
+  companyName: HR Solutions
+  offering_name: Human Resources Management
+- Note: Robust financial software
+  SourceURL: https://financepro.com/software
+  Type: Finance
+  companyName: FinancePro
+  offering_name: Financial Software
+- Note: Effective email marketing platform
+  SourceURL: https://mailmaster.com/email
+  Type: Marketing
+  companyName: MailMaster
+  offering_name: Email Marketing
+- Note: All-in-one social media management tool
+  SourceURL: https://socialsync.com/management
+  Type: Social Media
+  companyName: SocialSync
+  offering_name: Social Media Management
+- Note: Reliable cloud computing services
+  SourceURL: https://cloudwave.com/services
+  Type: Cloud
+  companyName: CloudWave
+  offering_name: Cloud Computing Services
+- Note: Secure data backup solutions
+  SourceURL: https://backupguard.com/solutions
+  Type: Data
+  companyName: BackupGuard
+  offering_name: Data Backup Solutions
+- Note: High-quality video conferencing
+  SourceURL: https://meetpro.com/video
+  Type: Communication
+  companyName: MeetPro
+  offering_name: Video Conferencing
+- Note: Flexible content management system
+  SourceURL: https://contentflow.com/system
+  Type: CMS
+  companyName: ContentFlow
+  offering_name: Content Management System
