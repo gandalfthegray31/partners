@@ -1,76 +1,81 @@
 partners:
-- Note: Highly reliable cloud storage solution
-  SourceURL: https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://s3.amazonaws.com/solutions-features-reference/connected-mobility-solution-on-aws/mainline-v1.2.0/vpc/vpc.template&stackName=acdp-public-vpc&param_VpcName=acdp-public-vpc&param_VpcFlowLogsEnabled=false&param_AllowInternetAccess=true&param_EnableVpcEndpoints=true
-  Type: SaaS
-  companyName: TechCorp
-  offering_name: Cloud Storage
-- Note: Advanced AI analytics platform
-  SourceURL: https://datagenius.com/ai-analytics
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-rh3fkzmvblrrc?sr=0-6&ref_=beagle&applicationId=AWSMPContessa
   Type: AI
-  companyName: DataGenius
-  offering_name: AI Analytics
-- Note: Comprehensive cybersecurity tools
-  SourceURL: https://securenet.com/cybersecurity-suite
+  companyName: Excelfore
+  offering_name: Excelfore
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-pmgjj367khi2u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
+  Type: AI
+  companyName: Sibros
+  offering_name: Sibros
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-pv36syyt56zym?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
   Type: Security
-  companyName: SecureNet
-  offering_name: Cybersecurity Suite
-- Note: Efficient marketing automation services
-  SourceURL: https://marketminds.com/automation
+  companyName: VicOne
+  offering_name: VicOne
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-hlc5los56uj3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
   Type: Marketing
-  companyName: MarketMinds
-  offering_name: Marketing Automation
-- Note: User-friendly e-commerce solutions
-  SourceURL: https://shopease.com/platform
+  companyName: Here Technologies
+  offering_name: Here Technologies
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-tqatlrchwaxj4?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
   Type: E-commerce
-  companyName: ShopEase
-  offering_name: E-commerce Platform
-- Note: Streamlined project management tool
-  SourceURL: https://projectplus.com/tool
+  companyName: Upstream
+  offering_name: Upstream
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-g3knjxy3yadpi?sr=0-13&ref_=beagle&applicationId=AWSMPContessa
   Type: Management
-  companyName: ProjectPlus
-  offering_name: Project Management Tool
-- Note: Effective CRM software
-  SourceURL: https://clientconnect.com/crm
+  companyName: Argus
+  offering_name: Argus
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-wzx7k77dwfqis?sr=0-18&ref_=beagle&applicationId=AWSMPContessa
   Type: CRM
-  companyName: ClientConnect
-  offering_name: Customer Relationship Management
-- Note: Comprehensive HR management system
-  SourceURL: https://hrsolutions.com/management
+  companyName: Argus
+  offering_name: Argus
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-2v2tfrjyzmt3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
   Type: HR
-  companyName: HR Solutions
-  offering_name: Human Resources Management
-- Note: Robust financial software
-  SourceURL: https://financepro.com/software
+  companyName: Azuga
+  offering_name: Azuga
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-v5n34dn3wruns
   Type: Finance
-  companyName: FinancePro
-  offering_name: Financial Software
-- Note: Effective email marketing platform
-  SourceURL: https://mailmaster.com/email
+  companyName: Uptake
+  offering_name: Uptake
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-hlc5los56uj3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
   Type: Marketing
-  companyName: MailMaster
-  offering_name: Email Marketing
-- Note: All-in-one social media management tool
-  SourceURL: https://socialsync.com/management
+  companyName: Here Technologies
+  offering_name: Here Technologies
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-m6gpcdop5akk4?sr=0-4&ref_=beagle&applicationId=AWSMPContessa
   Type: Social Media
-  companyName: SocialSync
-  offering_name: Social Media Management
-- Note: Reliable cloud computing services
-  SourceURL: https://cloudwave.com/services
-  Type: Cloud
-  companyName: CloudWave
-  offering_name: Cloud Computing Services
-- Note: Secure data backup solutions
-  SourceURL: https://backupguard.com/solutions
-  Type: Data
-  companyName: BackupGuard
-  offering_name: Data Backup Solutions
-- Note: High-quality video conferencing
-  SourceURL: https://meetpro.com/video
-  Type: Communication
-  companyName: MeetPro
-  offering_name: Video Conferencing
-- Note: Flexible content management system
-  SourceURL: https://contentflow.com/system
-  Type: CMS
-  companyName: ContentFlow
-  offering_name: Content Management System
+  companyName: Here Technologies
+  offering_name: Here Technologies
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-zp7ws35dijn2u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
+  Type: Social Media
+  companyName: Bosch
+  offering_name: Bosch
+- Note: ''
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-fyhziqwvrksrw?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
+  Type: Social Media
+  companyName: Blackberry QNX
+  offering_name: Blackberry QNX
+- Note: ''
+  SourceURL: ''
+  Type: ''
+  companyName: ''
+  offering_name: ''
+- Note: ''
+  SourceURL: ''
+  Type: ''
+  companyName: ''
+  offering_name: ''
+- Note: ''
+  SourceURL: ''
+  Type: ''
+  companyName: ''
+  offering_name: ''
