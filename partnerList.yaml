@@ -1,66 +1,106 @@
 partners:
-- Note: ''
+- Note: eSync is an over-the-air (OTA) data platform to manage diverse edge devices
+    for automotive/industrial applications. It is based on the eSync Alliance standard
+    to support OTA updates and data gathering with a single approach across multiple
+    vehicle brands, models and sub-models.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-rh3fkzmvblrrc?sr=0-6&ref_=beagle&applicationId=AWSMPContessa
-  Type: AI
+  Type: SaaS
   companyName: Excelfore
-  offering_name: Excelfore
-- Note: ''
+  offering_name: eSync OTA Agent SDK for AWS
+- Note: Sibros' Deep Connected Platform (DCP) is an end-to-end connected vehicle solution
+    that integrates data logging, software updates, remote commands, and fault analytics.
+    DCP offers unparalleled control, visibility, and governance over all embedded
+    software and data across global fleets, from day zero to product decommissioning,
+    while ensuring compliance with global safety and security standards.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-pmgjj367khi2u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: AI
+  Type: SaaS
   companyName: Sibros
-  offering_name: Sibros
-- Note: ''
+  offering_name: Deep Connected Platform
+- Note: VicOne xNexus empowers the VSOC team to successfully hunt Patient Zero in
+    nascent cyberattacks and ensure robust protection for connected vehicles and SDVs.
+    Our xNexus achieves this by offering contextualized insights into complex attack
+    paths, supported by over 30 years of contextualized threat intelligence.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-pv36syyt56zym?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: Security
+  Type: SaaS
   companyName: VicOne
-  offering_name: VicOne
-- Note: ''
-  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-hlc5los56uj3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: Marketing
-  companyName: Here Technologies
-  offering_name: Here Technologies
-- Note: ''
+  offering_name: xNexus Next-Gen VSOC Platform
+- Note: APIs enable connected vehicles and smart mobility services. Upstreams API
+    Security solution is uniquely able to secure billions of mobility API transactions
+    and analyze their unique context for advanced detection and response. Purpose
+    built for automotive and smart mobility, the solution layers API discovery and
+    monitoring with best of breed detection and response to secure applications and
+    services against direct and third party vulnerabilities, attacks, misconfigurations,
+    and design flaws. Upstreams Smart Mobility API Security solution relies on a robust
+    digital twin on the Upstream Platform, a live digital representation of the consumer,
+    vehicle, and other assets state. Upstream discovers and compiles a comprehensive
+    catalog of all APIs, documented and undocumented. Enhanced detection capabilities,
+    including OWASP API Top 10 risks, with deep contextual analysis power the triggering
+    of existing workflows to respond and mitigate cybersecurity threats.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-tqatlrchwaxj4?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: E-commerce
-  companyName: Upstream
-  offering_name: Upstream
-- Note: ''
+  Type: SaaS
+  companyName: Upstream Security
+  offering_name: Upstream API Security
+- Note: Argus Vehicle Security Operations Center combines technology, processes, playbooks
+    and a team of subject-matter experts to establish or expand a fully functional
+    operation center for vehicle fleets.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-g3knjxy3yadpi?sr=0-13&ref_=beagle&applicationId=AWSMPContessa
-  Type: Management
+  Type: SaaS
   companyName: Argus
-  offering_name: Argus
-- Note: ''
+  offering_name: Managed Vehicle Security Operations Center (VSOC)
+- Note: SW Supply Chain Security performs automatic binary SBOM scanning for public
+    and private vulnerabilities to comply with regulations and assure product security.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-wzx7k77dwfqis?sr=0-18&ref_=beagle&applicationId=AWSMPContessa
-  Type: CRM
+  Type: SaaS
   companyName: Argus
-  offering_name: Argus
-- Note: ''
+  offering_name: SW Supply Chain Security
+- Note: Cost-effective Fleet Tracking Options
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-2v2tfrjyzmt3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: HR
+  Type: SaaS
   companyName: Azuga
-  offering_name: Azuga
-- Note: ''
+  offering_name: Azuga Fleet
+- Note: Uptake Fleet empowers your team to prevent roadside failures, reduce unplanned
+    downtime and optimize operating and maintenance cost.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-v5n34dn3wruns
-  Type: Finance
+  Type: SaaS
   companyName: Uptake
-  offering_name: Uptake
-- Note: ''
+  offering_name: UPTAKE FLEET
+- Note: HERE Location Services allow AWS developers access to location APIs including
+    Geocoding, Search, Maps, Navigation, Routing, Fleet Telematics and more. These
+    REST & JavaScript APIs open new location intelligence opportunities in diverse
+    verticals like transportation, utilities, logistics and retail.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-hlc5los56uj3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: Marketing
+  Type: SaaS
   companyName: Here Technologies
-  offering_name: Here Technologies
-- Note: ''
+  offering_name: HERE Location Services
+- Note: HERE Tour Planning allows AWS developers to dynamically optimize routes for
+    multiple vehicles visiting a set of locations given real-life constraints.
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-izb3zaa6bhepo?sr=0-2&ref_=beagle&applicationId=AWSMPContessa
+  Type: SaaS
+  companyName: Here Technologies
+  offering_name: HERE Tour Planning
+- Note: Cloud-based HMI Software engineering platform for Transparent & Enhanced Collaboration
+    Experience and streamlining the HMI development workflow
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-m6gpcdop5akk4?sr=0-4&ref_=beagle&applicationId=AWSMPContessa
-  Type: Social Media
-  companyName: Here Technologies
-  offering_name: Here Technologies
-- Note: ''
+  Type: SaaS
+  companyName: Bosch Software and Digital Solutions
+  offering_name: 'LeapX: Next gen cloud based platform for HMI SW engineering'
+- Note: The Automotive Data Transformer (ADT) is a powerful cloud-based SaaS tool
+    for fast vehicle data processing. It supports MDF format and integrates with AWS
+    S3. With easy API calls, our SaaS resolves your challenges with MDF and enables
+    you to extract metadata and convert signal data to Parquet, JSON or CSV securely
+    and reliably. Therefore ADT enables data analysis, simulation, and ML model improvement
+    for automotive companies and simultaneously saves time and resources for implementation
+    and maintenance.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-zp7ws35dijn2u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: Social Media
-  companyName: Bosch
-  offering_name: Bosch
-- Note: ''
+  Type: SaaS
+  companyName: Bosch Engineering GmbH
+  offering_name: Automotive Data Transformer
+- Note: QNX Real-Time Operating System 8.0 is the next-generation microkernel that
+    has been augmented to support the latest 64-bit ARM processors. It is the foundation
+    for developing software for systems that run critical, real-time compute-intensive
+    software such as those in mission-critical embedded systems such as automotive,
+    medical devices, robotics, transportation and industrial embedded systems.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-fyhziqwvrksrw?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: Social Media
+  Type: AMI
   companyName: Blackberry QNX
-  offering_name: Blackberry QNX
+  offering_name: QNX OS 8.0
