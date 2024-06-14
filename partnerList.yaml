@@ -53,16 +53,18 @@ partners:
   Type: SaaS
   companyName: Argus
   offering_name: SW Supply Chain Security
-- Note: Cost-effective Fleet Tracking Options
+- Note: GPS Fleet Tracking that is simple to use, affordable, and powerful enough
+    to run any size fleet. Azuga's fleet management platform is the best solution
+    to keep track of drivers, improve safety and protect all your assets.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-2v2tfrjyzmt3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
   Type: SaaS
-  companyName: Azuga
+  companyName: Azuga, a Bridgestone Company
   offering_name: Azuga Fleet
 - Note: Uptake Fleet empowers your team to prevent roadside failures, reduce unplanned
     downtime and optimize operating and maintenance cost.
   SourceURL: https://aws.amazon.com/marketplace/pp/prodview-v5n34dn3wruns
   Type: SaaS
-  companyName: Uptake
+  companyName: Uptake Technologies
   offering_name: UPTAKE FLEET
 - Note: HERE Location Services allow AWS developers access to location APIs including
     Geocoding, Search, Maps, Navigation, Routing, Fleet Telematics and more. These
@@ -95,12 +97,109 @@ partners:
   Type: SaaS
   companyName: Bosch Engineering GmbH
   offering_name: Automotive Data Transformer
-- Note: QNX Real-Time Operating System 8.0 is the next-generation microkernel that
-    has been augmented to support the latest 64-bit ARM processors. It is the foundation
-    for developing software for systems that run critical, real-time compute-intensive
-    software such as those in mission-critical embedded systems such as automotive,
-    medical devices, robotics, transportation and industrial embedded systems.
-  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-fyhziqwvrksrw?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
-  Type: AMI
-  companyName: Blackberry QNX
-  offering_name: QNX OS 8.0
+- Note: BlackBerry combines endpoint protection and management to prevent zero-day
+    threats, ransomware, and phishing attacks while correlating and pinpointing threats
+    to ensure full visibility and security coverage that spans the entire organization.
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-j3qe23ppt5eno?did=pa_card&trk=pa_card
+  Type: SaaS
+  companyName: Blackberry
+  offering_name: BlackBerry Cylance Cybersecurity Platform
+- Note: Built on top of Upstreams Platform, Upstream Vehicle SOC (vSOC) seamlessly
+    integrates with the OEMs Automotive tech stack (SIEM, SOAR, CRM, etc.), allowing
+    self-managed or MSSP remediation frameworks and playbooks to streamline incident
+    remediation and automation.
+  SourceURL: https://partners.amazonaws.com/partners/0010L00001tB2DXQA0/
+  Type: SaaS
+  companyName: Upstream Security
+  offering_name: vSOC
+- Note: Sonatus Collector provides an intelligent, efficient, and flexible way to
+    automate the collection of data for enhancing vehicle functionality and performance,
+    troubleshooting issues, and opening new monetization opportunities. Sonatus Collector
+    is built on the foundation of lightweight and fine-grained collection policies
+    that can be customized and triggered for collecting just whats needed, when its
+    needed, avoiding costly and complex OTA changes and bulk data transfers. These
+    policies can be deployed on select groups of vehicles ranging from just a few
+    to millions. With Sonatus Collector, OEMs and partners can use data for a wide
+    range of use cases, from improving battery performance and range estimates, to
+    using multi-sensor inputs for improving ADAS performance, and diagnosing issues
+    in the field. The variety of precise vehicle and driver behavior data that can
+    be collected can also be used for offering new features and services that provide
+    additional sources of revenue.
+  SourceURL: https://partners.amazonaws.com/partners/0018a00001qnTLPAA2/Sonatus
+  Type: SaaS
+  companyName: Sonatus
+  offering_name: Sonatus Collector
+- Note: Enabling vehicle digital twins with MongoDB Atlas and Realm for Mobile/IoT
+  SourceURL: https://partners.amazonaws.com/partners/001E000000U0VKNIA3/
+  Type: SaaS
+  companyName: Digital Vehicle Twin
+  offering_name: MongoDB
+- Note: KPITs Remaining Useful Life (RUL) solution uses AI/ML to accurately translate
+    data into timely, actionable insights. These insights enable the vehicle owner,
+    OEM or mobility service provider to predict the maintenance needs of their fleet
+    for maximum uptime, timely fixes and higher productivity.
+  SourceURL: https://partners.amazonaws.com/partners/001E000000UfZqCIAV/
+  Type: SaaS
+  companyName: KPIT
+  offering_name: Predictive Maintenance Solution for Automotive Components
+- Note: CerebrumX's AI driven platform collects & harmonizes data from millions of
+    vehicles, in real-time, and enriches it with augmented data to generate deep &
+    contextual insights for enterprises.
+  SourceURL: https://partners.amazonaws.com/partners/0010h00001jCgKTAA0/
+  Type: SaaS
+  companyName: CerebrumX
+  offering_name: Connected Car Data Analytics Platform
+- Note: 'Fueled by connected car data, WirelessCar''s Smart EV Routing reduces both
+    charge and range anxiety by providing specifically tailored navigation tools that
+    match the EV drivers needs. Optimized routing during long distance drives delivers
+    accurate charging guidance: when, where and for how long to charge. Our product
+    ensures that drivers of electric vehicles (EVs) get all the information they need
+    to make their journey as smooth and efficient as possible.'
+  SourceURL: https://partners.amazonaws.com/partners/001E000000te5syIAA/
+  Type: SaaS
+  companyName: WirelessCar
+  offering_name: Smart EV Routing
+- Note: Connected Car Essentials is a suite of products and services that delivers
+    a secure and reliable connected car end-to-end experience to your customers. Car
+    makers can take advantage of economy of scale, cut time-to-market, and reduce
+    complexity. Connected Car Essentials aims to ensure that all car makers can utilize
+    connected car services. By doing so, they fulfill customers expectations and address
+    increasingly challenging market demands.
+  SourceURL: https://partners.amazonaws.com/partners/001E000000te5syIAA/
+  Type: SaaS
+  companyName: WirelessCar
+  offering_name: Connected Car Essentials
+- Note: Built on real-world data and learnings from millions of vehicle journeys over
+    the course of many years, we have developed Position & Journey to meet the needs
+    of automotive applications. In its essence, it is a product that manages car location
+    and trip data, allows for enrichment of that data, and provides insights on how,
+    when and where vehicles are driven.
+  SourceURL: https://partners.amazonaws.com/partners/001E000000te5syIAA/
+  Type: SaaS
+  companyName: WirelessCar
+  offering_name: Position and Journey
+- Note: Cloud service that triggers digital safety alerts to be sent to drivers, ADAS,
+    and automated driving systems.
+  SourceURL: https://partners.amazonaws.com/partners/0010h00001kNzP0AAK/HAAS%20Alert&did=pa_card&trk=pa_card
+  Type: SaaS
+  companyName: HAAS Alert
+  offering_name: Safety Cloud Digital Alerting Service
+- Note: aicas EdgeSuite empowers embedded and connected edge-to-cloud solutions
+  SourceURL: https://partners.amazonaws.com/partners/0010L00001v2Mn5QAE/
+  Type: SaaS
+  companyName: Aicas GmbH
+  offering_name: Aicas EdgeSuite
+- Note: BlackBerry Radar is a complete asset tracking solution providing reliable
+    visibility to trailer, chassis, containers, railcars and equipment. These ruggedized
+    devices are easy-to-install, low maintenance and long-lasting to minimize operational
+    disruptions and maximize your ROI.
+  SourceURL: https://aws.amazon.com/marketplace/pp/prodview-qjtlfrnlgqxme?did=pa_card&trk=pa_card
+  Type: SaaS
+  companyName: Blackberry
+  offering_name: BlackBerry Radar Asset Tracking Solution
+- Note: Digital Key solution allows automakers to manage the generation and workflows
+    of digital keys with secure storage on mobile devices.
+  SourceURL: https://partners.amazonaws.com/partners/0010L00001v2Wn2QAE/Idemia&did=pa_card&trk=pa_card
+  Type: SaaS
+  companyName: Idemia
+  offering_name: Digital Key
